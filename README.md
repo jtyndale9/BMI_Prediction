@@ -10,6 +10,6 @@ Predict BMI values using the PIMA Indians dataset using linear regression and gr
 
 
 
-## Cost vs Iteration Curve
+## Predicted vs Actual 
 
 <img src="https://github.com/jtyndale9/BMI_Prediction/blob/main/PredictedvActual.PNG" width=250><br>
