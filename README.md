@@ -8,11 +8,12 @@ The steps taken were as follows:
 3. Normalize the data
 4. Split the dataset into an 80% training and 20% testing set
 5. Define an error calculation method
-6. Define a gradient descent method
-7. Define a MSE method (mean squared error)
-8. Define a prediction method (dot product of weights and features)
-9. Train the model using the methods defined above
-10. Predict and tune the model
+<img src="https://github.com/jtyndale9/BMI_Prediction/blob/main/ErrorRepresentation.PNG" width=250><br>
+7. Define a gradient descent method
+8. Define a MSE method (mean squared error)
+9. Define a prediction method (dot product of weights and features)
+10. Train the model using the methods defined above
+11. Predict and tune the model
 
 
 
@@ -26,3 +27,9 @@ The steps taken were as follows:
 ## Predicted vs Actual 
 
 <img src="https://github.com/jtyndale9/BMI_Prediction/blob/main/PredictedvActual.PNG" width=250><br>
+
+
+
+## PCA Dimentionality Reduction (8 features to 2)
+
+<img src="https://github.com/jtyndale9/BMI_Prediction/blob/main/pca.PNG" width=250><br>
